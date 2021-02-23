@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="set_background">Set Background</string>
+    <string name="waterfall">picture of a waterfall</string>
+    <string name="supermoon">picture of a supermoon</string>
+</resources>
